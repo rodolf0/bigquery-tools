@@ -1,0 +1,17 @@
+[
+ {"type": "integer" , "name": "site_id"}        ,
+ {"type": "integer" , "name": "date_id"}        ,
+ {"type": "integer" , "name": "time_id"}        ,
+ {"type": "integer" , "name": "timestamp_full"} ,
+ {"type": "integer" , "name": "elapsed"}        ,
+ {"type": "string"  , "name": "client"}         ,
+ {"type": "string"  , "name": "code"}           ,
+ {"type": "integer" , "name": "status_id"}      ,
+ {"type": "integer" , "name": "bytes"}          ,
+ {"type": "string"  , "name": "method"}         ,
+ {"type": "string"  , "name": "url"}            ,
+ {"type": "string"  , "name": "domain"}         ,
+ {"type": "string"  , "name": "peerstatus"}     ,
+ {"type": "string"  , "name": "peerhost"}       ,
+ {"type": "string"  , "name": "content"}
+]
